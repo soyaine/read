@@ -47,8 +47,6 @@ article {
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
     margin-bottom: $spacing-unit;
     padding: 3em 3em 1em;
-	font-family: "Microsoft Yahei";
-	font-weight: lighter;
 
     @include media-query($on-palm) {
         padding: 1em 1em 0.3em;
@@ -57,6 +55,23 @@ article {
     > .entry-content {
         @include media-query($on-palm) {
             font-size: 80%;
+        }
+
+        &:first-letter {
+            color: #b7b1a9;
+            display: inline-block;
+            float: left;
+            font-family: "Playfair Display";
+            font-size: 1.2em;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 40px;
+            margin: 6px 10px 0 -5px;
+
+            @include media-query($on-palm) {
+                font-size: 70px;
+                line-height: 30px;
+            }
         }
 
         &:first-line {
