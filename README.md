@@ -1,24 +1,19 @@
-# Libretto - Jekyll Theme
+# 采采芣苢
 
-Libretto is a responsive one-column Jekyll theme with classic styling and careful typographic details.
+This is my repo for reading, thinking and writing.
 
-Based on the [Libretto Wordpress theme](https://wordpress.org/themes/libretto/).
+## Site
 
-## Install and Test
+- 
 
-1. Download or clone the repo
-  - `git clone git@github.com:ferrolho/jekyll-theme-libretto.git`
-2. Enter the folder
-  - `cd jekyll-theme-libretto/`
-3. Start Jekyll server
-  - `jekyll serve --watch`
-4. Access via
-  - http://127.0.0.1:4000/jekyll-theme-libretto/
+## Name
 
-## Demo
+《詩經．國風．周南．芣苢》
+采采芣苢，薄言采之。
+采采芣苢，薄言有之。
 
-- https://ferrolho.github.io/jekyll-theme-libretto/
+采采芣苢，薄言掇之。
+采采芣苢，薄言捋之。
 
-## Preview
-
-![Theme preview](http://i.imgur.com/2ZCmoKo.png)
+采采芣苢，薄言袺之。
+采采芣苢，薄言襭之。

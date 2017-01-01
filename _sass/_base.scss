@@ -59,7 +59,7 @@ article {
             font-size: 80%;
         }
 
-        &:first-line {
+        &:lost-first-line {
             color: #787065;
             font-family: "Playfair Display SC";
             font-size: 1em;
@@ -189,7 +189,12 @@ li {
 /**
  * Headings
  */
+h1 {
+	display: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
+	color: #787065;
     line-height: initial;
     font-weight: $base-font-weight;
 }
@@ -218,9 +223,9 @@ blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    font-size: .9em;
     letter-spacing: -1px;
-    font-style: italic;
+//    font-style: italic;
 
     > :last-child {
         margin-bottom: 0;
