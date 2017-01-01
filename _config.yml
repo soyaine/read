@@ -17,7 +17,7 @@ title: 采采芣苢
 email: soyaine1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   薄言有之
-baseurl: "/read" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://soyaine.github.io" # the base hostname & protocol for your site
 github_username:    soyaine
 instagram_username: soyaine
