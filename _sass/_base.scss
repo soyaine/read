@@ -67,6 +67,10 @@ article {
             font-weight: bold;
             letter-spacing: 2px;
         }
+		
+		> h1 {
+			display: none;
+		}
     }
 }
 
@@ -189,10 +193,6 @@ li {
 /**
  * Headings
  */
-h1 {
-	display: none;
-}
-
 h1, h2, h3, h4, h5, h6 {
 	color: #787065;
     line-height: initial;
@@ -305,8 +305,8 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 20px;
+        height: 20px;
         vertical-align: middle;
 
         path {
